@@ -1,0 +1,25 @@
+{
+  "name": "winston-neo4j-transport",
+  "version": "1.0.0",
+  "description": "Winston transport for Neo4j",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js test/**/*.test.js --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glenholmes/winston-neo4j-transport.git"
+  },
+  "keywords": [
+    "logging",
+    "winston",
+    "transport",
+    "neo4j"
+  ],
+  "author": "Glen Holmes <me@glenholmes.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glenholmes/winston-neo4j-transport/issues"
+  },
+  "homepage": "https://github.com/glenholmes/winston-neo4j-transport#readme"
+}
