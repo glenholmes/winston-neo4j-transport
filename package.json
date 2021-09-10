@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/glenholmes/winston-neo4j-transport/issues"
   },
-  "homepage": "https://github.com/glenholmes/winston-neo4j-transport#readme"
+  "homepage": "https://github.com/glenholmes/winston-neo4j-transport#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "neode": "^0.4.7",
+    "winston-transport": "^4.4.0"
+  }
 }
